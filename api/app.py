@@ -4,5 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def calling():
-    a = "hi"
-    return {'message': a}
+    return {"message": "hi"}
