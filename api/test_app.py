@@ -1,5 +1,6 @@
-from app import calculate_sum
 """ python module for running test """
+
+from app import calculate_sum
 
 def test_calculate_sum():
     """ runs three basic tests for calculate_sum function in app.py """

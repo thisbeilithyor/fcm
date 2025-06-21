@@ -1,5 +1,6 @@
-from flask import Flask
 """ python module for setting up the api endpoint """
+
+from flask import Flask
 
 app = Flask(__name__)
 
